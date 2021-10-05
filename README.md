@@ -1,4 +1,4 @@
-# ICLR 2022_Reproducibility code
+# Effective-GCN-based-Hierarchical-Multi-label-classification-for-Protein-Function-Prediction
 # Dependencies
 + python 3.6.13
 + PyTorch 1.7.1
