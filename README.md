@@ -1,4 +1,6 @@
 # An Effective-GCN-based-Hierarchical-Multi-label-classification-for-Protein-Function-Prediction
+This repository contains the code for the paper: 
+Kyudam Choi, Yurim Lee, Cheongwon Kim, Minsung Yoon, An Effective GCN-based Hierarchical Multi-label classification for Protein Function Prediction, arxiv, http://arxiv.org/abs/2112.02810
 # Dependencies
 + python 3.6.13
 + PyTorch 1.7.1
